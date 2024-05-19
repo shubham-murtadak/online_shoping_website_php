@@ -106,10 +106,7 @@
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-=======
-# online_shoping_website_php
->>>>>>> b14f67c6acb4b630958fbb0e3aed4e84cee15630
-=======
-# online_shoping_website_php
->>>>>>> edea5edfcfe6478529a3280b68fafa6019d9e951
-"# online_shoping_website_php" 
+
+
+Thank you !!!!!!
+
