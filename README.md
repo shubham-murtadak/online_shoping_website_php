@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 <h3>Things I code with</h3>
 <p>
@@ -37,7 +35,7 @@
 	<li><b>React JS</b></li>
 	<li><b>AI/ML</b></li>
 </ul>
-<h2> Projects with installation support and code explaination for Premium contact gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
+
 
 # Installation
 
@@ -45,12 +43,12 @@
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
+3. Download project from github : https://github.com/shubham-murtadak/online_shoping_website_php.git
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+    ii>git clone :(https://github.com/shubham-murtadak/online_shoping_website_php.git)
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -62,24 +60,18 @@
 
 8. after creating database name click on import.
 
-9. browse the file in directory[online-shopping-system-with-advanced-admin-page/database/onlineshop.sql].
+9. browse the file in directory[online-shopping-system-with-advanced/database/onlineshop.sql].
 
 10. after importing successfully.
 
-11. open any browser and type http://localhost/online-shopping-system-with-advanced-admin-page-master.
+11. open any browser and type http://localhost/online-shopping-system-with-advanced.
 
 12. first register and then login
 
 13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
 
 ## If you like my project 
-Bye me Cup of coffee
 
-
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
 
 ##  If you like my project hit a star button
 
